@@ -10,3 +10,47 @@ position: fixed;
 bottom: 0px;
 right: 0px;
 }
+
+.container1{
+width: 750px;
+display: grid;
+grid-template-areas: 
+  "header header header" "nav main more" "footer footer footer"
+display: flex;
+justify-content: center;
+}
+
+.header{
+grid-area: header;
+border: solid 2px;
+border-color: white;
+border-radius: 10px;
+}
+
+.nav{
+grid-area: nav;
+border: solid 2px;
+border-color: white;
+border-radius: 10px;
+}
+
+.main{
+grid-area: main;
+border: solid 2px;
+border-color: white;
+border-radius: 10px;
+}
+
+.more{
+grid-area: more;
+border: solid 2px;
+border-color: white;
+border-radius: 10px;
+}
+
+.footer{
+grid-area: footer;
+border: solid 2px;
+border-color: white;
+border-radius: 10px;
+}
