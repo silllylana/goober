@@ -15,7 +15,7 @@ right: 0px;
 width: 750px;
 display: grid;
 grid-template-areas: 
-  "header header header" "nav main more" "footer footer footer"
+  "header header header" "nav main more" "footer footer footer";
 display: flex;
 justify-content: center;
 }
