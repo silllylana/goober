@@ -11,6 +11,13 @@ bottom: 0px;
 right: 0px;
 }
 
+.leonleftpng{
+width: 300px;
+position: fixed;
+bottom: 0px;
+right: 100px;
+}
+
 .container1{
 width: 750px;
 display: grid;
