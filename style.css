@@ -12,6 +12,7 @@ right: 0px;
 }
 
 .container1{
+margin: 1%;
 width: 750px;
 display: grid;
 grid-gap: 2px;
@@ -21,6 +22,7 @@ grid-template-areas:
 }
 
 .header{
+text-align: center;
 grid-area: header;
 border: solid 2px;
 border-color: white;
@@ -28,6 +30,7 @@ border-radius: 10px;
 }
 
 .nav{
+text-align: center;
 grid-area: nav;
 border: solid 2px;
 border-color: white;
@@ -35,6 +38,7 @@ border-radius: 10px;
 }
 
 .main{
+text-align: center;
 grid-area: main;
 border: solid 2px;
 border-color: white;
@@ -42,6 +46,7 @@ border-radius: 10px;
 }
 
 .more{
+text-align: center;
 grid-area: more;
 border: solid 2px;
 border-color: white;
@@ -49,6 +54,7 @@ border-radius: 10px;
 }
 
 .footer{
+text-align: center;
 grid-area: footer;
 border: solid 2px;
 border-color: white;
