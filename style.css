@@ -14,6 +14,8 @@ right: 0px;
 .container1{
 width: 750px;
 display: grid;
+grid-gap: 2px;
+grid-template-columns: auto;
 grid-template-areas: 
   "header header header" "nav main more" "footer footer footer";
 display: flex;
