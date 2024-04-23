@@ -30,6 +30,7 @@ border-radius: 10px;
 }
 
 .nav{
+width: 150px;
 text-align: center;
 grid-area: nav;
 border: solid 2px;
@@ -46,6 +47,7 @@ border-radius: 10px;
 }
 
 .more{
+width: 150px;
 text-align: center;
 grid-area: more;
 border: solid 2px;
