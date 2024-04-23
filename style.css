@@ -2,3 +2,10 @@ body{
 color: white;
 background: black;
 }
+
+umbrella{
+width: 200 px;
+position: fixed;
+bottom: 0px;
+right: 0px;
+}
