@@ -23,11 +23,19 @@ bottom: 0px;
 right: 0px;
 }
 
+.umbrella:hover{
+width: 300px;
+}
+
 .leonleftpng{
 width: 400px;
 position: fixed;
 bottom: 0px;
 left: 0px;
+}
+
+.leonleftpng:hover{
+width: 500px;
 }
 
 .container1{
