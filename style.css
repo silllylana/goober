@@ -8,6 +8,10 @@ color: white;
 background: black;
 }
 
+a{
+color: black;
+}
+
 .umbrella{
 width: 200px;
 position: fixed;
