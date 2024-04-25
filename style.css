@@ -9,7 +9,11 @@ background: black;
 }
 
 a{
-color: black;
+color: white;
+}
+
+a: hover{
+color: #8c1b1a;
 }
 
 .umbrella{
